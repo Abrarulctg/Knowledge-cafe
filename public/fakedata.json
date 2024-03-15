@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://picsum.photos/600/400?random=1",
+        "title": "10 Tips for Better Time Management",
+        "author": "John Smith",
+        "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
+        "posted_date": "2024-03-15",
+        "reading_time": 10,
+        "hashtags": [
+            "timemanagement",
+            "productivity",
+            "tips"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://picsum.photos/600/400?random=2",
+        "title": "Exploring the Wilderness: A Backpacker's Journey",
+        "author": "Emily Johnson",
+        "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
+        "posted_date": "2024-03-14",
+        "reading_time": 15,
+        "hashtags": [
+            "travel",
+            "adventure",
+            "backpacking"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://picsum.photos/600/400?random=3",
+        "title": "Mastering the Art of Cooking: Essential Techniques",
+        "author": "Samantha Lee",
+        "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
+        "posted_date": "2024-03-13",
+        "reading_time": 20,
+        "hashtags": [
+            "cooking",
+            "culinary",
+            "techniques"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://picsum.photos/600/400?random=4",
+        "title": "The Power of Positive Thinking: How to Stay Optimistic",
+        "author": "David Brown",
+        "author_img": "https://randomuser.me/api/portraits/men/4.jpg",
+        "posted_date": "2024-03-12",
+        "reading_time": 12,
+        "hashtags": [
+            "positivity",
+            "mindfulness",
+            "selfhelp"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://picsum.photos/600/400?random=5",
+        "title": "10 Must-Read Books for Every Bookworm",
+        "author": "Emma White",
+        "author_img": "https://randomuser.me/api/portraits/women/5.jpg",
+        "posted_date": "2024-03-11",
+        "reading_time": 18,
+        "hashtags": [
+            "books",
+            "reading",
+            "literature"
+        ]
+    }
+]
